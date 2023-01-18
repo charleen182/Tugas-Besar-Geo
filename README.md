@@ -1,2 +1,2 @@
-# projectuas.github.com
+# projectuas.github.io
 UAS
