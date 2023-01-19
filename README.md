@@ -1,2 +1,0 @@
-# projectuas.github.io
-UAS
